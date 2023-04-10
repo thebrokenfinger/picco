@@ -1,6 +1,6 @@
 {
   "name": "picco",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": false,
   "description": "A tiny state management library for React",
   "main": "./dist/index.js",
